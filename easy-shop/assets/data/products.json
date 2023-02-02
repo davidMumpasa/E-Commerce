@@ -1,0 +1,105 @@
+[
+    {
+        "_id": {
+
+            "$oid": "5f15d92ee520d44421ed8e9b"
+            },
+            "image": "https://cdn.pixabay.com/photo/2012/04/01/17/29/box-23649_960_720.png",
+            "brand": "IKEA",
+            "price": 350.9,
+            "rating": 5,
+            "numReviews": 0, "isFeatured": true,
+            "name":"Garden Chair",
+            "description": "Big Sofa for livingroom",
+            "category": {
+                "Soid": "5f15d5b2cb4a6642bddc@fe?"
+            },
+            "countInStock":3,
+            "__v":0
+    },
+  {
+        "_id": {
+            "Soid": "5f15da13e520d44421d8e9e"
+        },
+            "image": "https://cdn.pixabay.com/photo/2016/04/01/10/51/equipment-1300059_960_720.png",
+            "brand": "Mobilix",
+            "price":1000,
+            "rating": 5,
+            "numReviews":null,
+            "isFeatured": true,
+            "name": "Sofa",
+            "description": "Big Sofa for livingroom",
+            "category": {
+                "Soid": "5f15d5b2cb4a6642bddc@fe?"
+            },
+            "countInStock":3,
+            "__v":0
+},{
+    "_id": {
+        "Soid": "5f15d5b7cb4a6642bddc@fe8"
+    },
+        "image": "https://cdn.pixabay.com/photo/2016/03/31/19/34/black-1295124_960_720.png",
+        "brand": "Iphone",
+        "price":5000,
+        "rating": 5,
+        "numReviews":null,
+        "isFeatured": true,
+        "name": "Sofa1",
+        "description": "Big Sofa for livingroom",
+        "category": {
+            "Soid": "5f15d5b7cb4a6642bddc@fe8"
+        },
+        "countInStock":2,
+        "__v":0
+},{
+    "_id": {
+        "Soid": "5f15d5b7cb4a6642bddc8fe8"
+    },
+        "image": "https://cdn.pixabay.com/photo/2017/01/31/08/48/barbell-2023339_960_720.png",
+        "brand": "Iphone1",
+        "price":6000,
+        "rating": 5,
+        "numReviews":null,
+        "isFeatured": true,
+        "name": "swimming pool",
+        "description": "Big Sofa for livingroom",
+        "category": {
+            "Soid": "5f15d5b7cb4a6642bddc8fe8"
+        },
+        "countInStock":10,
+        "__v":0
+},{
+    "_id": {
+        "Soid": "5f15d5b7cb4a6642bddc8td8"
+    },
+        "image": "https://cdn.pixabay.com/photo/2012/04/12/13/30/bench-30042_960_720.png",
+        "brand": "car",
+        "price":2100,
+        "rating": 5,
+        "numReviews":null,
+        "isFeatured": true,
+        "name": "vegetable",
+        "description": "Big Sofa for livingroom",
+        "category": {
+            "Soid": "5f15d5b7cb4a6642bddc8td8"
+        },
+        "countInStock":2,
+        "__v":0
+},{
+    "_id": {
+        "Soid": "5f15d5b7cb4a6642bddc9td8"
+    },
+        "image": "",
+        "brand": "byke",
+        "price":3000,
+        "rating": 5,
+        "numReviews":null,
+        "isFeatured": true,
+        "name": "bycicle",
+        "description": "Big Sofa for livingroom",
+        "category": {
+            "Soid": "5f15d5b7cb4a6642bddc9td8"
+        },
+        "countInStock":2,
+        "__v":0
+}]
